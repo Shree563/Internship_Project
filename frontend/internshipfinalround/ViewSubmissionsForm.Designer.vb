@@ -122,6 +122,7 @@ Partial Class ViewSubmissionsForm
         txtNameView.Name = "txtNameView"
         txtNameView.Size = New Size(125, 27)
         txtNameView.TabIndex = 9
+        txtNameView.ReadOnly = True
         ' 
         ' txtEmailView
         ' 
@@ -129,6 +130,7 @@ Partial Class ViewSubmissionsForm
         txtEmailView.Name = "txtEmailView"
         txtEmailView.Size = New Size(125, 27)
         txtEmailView.TabIndex = 10
+        txtEmailView.ReadOnly = True
         ' 
         ' txtPhoneView
         ' 
@@ -136,6 +138,7 @@ Partial Class ViewSubmissionsForm
         txtPhoneView.Name = "txtPhoneView"
         txtPhoneView.Size = New Size(125, 27)
         txtPhoneView.TabIndex = 11
+        txtPhoneView.ReadOnly = True
         ' 
         ' txtGitHubView
         ' 
@@ -143,6 +146,7 @@ Partial Class ViewSubmissionsForm
         txtGitHubView.Name = "txtGitHubView"
         txtGitHubView.Size = New Size(125, 27)
         txtGitHubView.TabIndex = 12
+        txtGitHubView.ReadOnly = True
         ' 
         ' btnDelete
         ' 
@@ -160,6 +164,7 @@ Partial Class ViewSubmissionsForm
         TextBox1.Name = "TextBox1"
         TextBox1.Size = New Size(125, 27)
         TextBox1.TabIndex = 15
+        TextBox1.ReadOnly = True
         ' 
         ' Label6
         ' 

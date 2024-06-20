@@ -1,60 +1,54 @@
 # Internship_Project
 
-
 This project is a Windows Form application with a TypeScript Express backend for managing submissions.
 
-### Technologies Used
+## Technologies Used
 
-- Frontend: .NET Framework, C#
-- Backend: TypeScript, Express.js
+- **Frontend:** .NET Framework, C#
+- **Backend:** TypeScript, Express.js
 
-### How to Run
+## How to Run
 
-#### Frontend (Windows Form Application)
+### Frontend (Windows Form Application)
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Shree563/Internship_Project.git
 
-   Restore Packages:
-Ensure you have .NET installed.
-Open the project in Visual Studio.
-Build and run the internshipfinalround project.
+**2. Open the Project in Visual Studio:**
+Navigate to the cloned Internship_Project folder.
 
-### once we clone the repository the folder name will appear named as Internship_Project open the folder in visual studio 2022(please use this version for the better experience)
+Open the frontend folder.
 
-#### Backend (TypeScript Express Server)
-**1. open the Backend folder:**
+Open Form1.Designer.vb in Visual Studio by navigating to the file and using Shift + F7 to switch to the designer view.
 
-use the developer shell to open the backend folder
+Run the form by clicking on the play button in Visual Studio.
+
+### Backend (TypeScript Express Server)
+
+Install Dependencies:
+
+**1.Open the developer shell in Visual Studio.**
+
+Navigate to the backend folder:
 
 cd backend
 
-### install the necssary dependencies like below
-
-**2. install dependencies: npm install**
-
-**3.Build and Run:** npm start
-
-**4.Run the Backend using TypeScript Compiler and Node:**
-
-Open the developer shell in Visual Studio.
+**2.Install necessary dependencies**
 
 PS C:\Users\shree\source\repos\Internship_Project\backend> npm install --save-dev @types/cors
 
 PS C:\Users\shree\source\repos\Internship_Project\backend> npm install express body-parser cors
 
+**3. Build and Run the Backend:**
+
+Compile TypeScript files
+
 PS C:\Users\shree\source\repos\Internship_Project\backend> tsc
 
 PS C:\Users\shree\source\repos\Internship_Project\backend> node dist/app.js
 
-Server is running on http://localhost:3000    // this means the backend is up and running
+Server is running on http://localhost:3000 // this means the backend is up and running
 
-
-Please Note:
-
-once we see the server is running we can go with the execution of Windows form app.
-
-
-Additional Notes
-Make sure ports 3000 (backend) and appropriate ports for .NET applications are available.
+Execution Flow
+Once the backend server is confirmed to be running, proceed with executing the Windows Form application.

@@ -38,9 +38,13 @@ cd backend
 
 Open the developer shell in Visual Studio.
 
-PS C:\Users\shree\source\repos\myproject> tsc
+PS C:\Users\shree\source\repos\Internship_Project\backend> npm install --save-dev @types/cors
 
-PS C:\Users\shree\source\repos\myproject> node dist/app.js
+PS C:\Users\shree\source\repos\Internship_Project\backend> npm install express body-parser cors
+
+PS C:\Users\shree\source\repos\Internship_Project\backend> tsc
+
+PS C:\Users\shree\source\repos\Internship_Project\backend> node dist/app.js
 
 Server is running on http://localhost:3000
 

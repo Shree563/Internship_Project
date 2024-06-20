@@ -32,7 +32,7 @@ cd backend
 
 **2. install dependencies: npm install**
 **3.Build and Run:** npm start
-4. run the back end using developer shell in visual studio :
+**4. run the back end using developer shell in visual studio :**
 PS C:\Users\shree\source\repos\myproject> tsc
 PS C:\Users\shree\source\repos\myproject> node dist/app.js
 Server is running on http://localhost:3000

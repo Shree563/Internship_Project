@@ -36,6 +36,8 @@ cd backend
 
 **2.Install necessary dependencies**
 
+PS C:\Users\shree\source\repos\Internship_Project\backend> npm install
+
 PS C:\Users\shree\source\repos\Internship_Project\backend> npm install --save-dev @types/cors
 
 PS C:\Users\shree\source\repos\Internship_Project\backend> npm install express body-parser cors

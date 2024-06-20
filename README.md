@@ -31,8 +31,13 @@ git clone https://github.com/Shree563/Internship_Project.git
 cd backend
 
 **2. install dependencies: npm install**
+
 **3.Build and Run:** npm start
-**4. run the back end using developer shell in visual studio :**
+
+**4.Run the Backend using TypeScript Compiler and Node:**
+
+Open the developer shell in Visual Studio.
+
 PS C:\Users\shree\source\repos\myproject> tsc
 PS C:\Users\shree\source\repos\myproject> node dist/app.js
 Server is running on http://localhost:3000

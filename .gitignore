@@ -1,0 +1,4 @@
+frontend/bin/
+frontend/obj/
+backend/node_modules/
+*.log

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|c:\\users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|solutionrelative:internshipfinalround\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|c:\\users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|solutionrelative:internshipfinalround\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|c:\\users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|solutionrelative:internshipfinalround\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|c:\\users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|solutionrelative:internshipfinalround\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|c:\\users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7B1D9EF6-34B1-44CB-9879-8D0CF7FDD242}|internshipfinalround\\internshipfinalround.vbproj|solutionrelative:internshipfinalround\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "internshipfinalround\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "internshipfinalround\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T17:26:28.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "internshipfinalround\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "internshipfinalround\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T17:25:50.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\Form1.vb",
+              "RelativeDocumentMoniker": "internshipfinalround\\Form1.vb",
+              "ToolTip": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\Form1.vb [Design]",
+              "RelativeToolTip": "internshipfinalround\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T17:24:06.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "internshipfinalround\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "internshipfinalround\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T17:00:10.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "internshipfinalround\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\shree\\source\\repos\\internshipfinalround\\internshipfinalround\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "internshipfinalround\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwFgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T17:07:54.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

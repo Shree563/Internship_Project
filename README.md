@@ -39,7 +39,9 @@ cd backend
 Open the developer shell in Visual Studio.
 
 PS C:\Users\shree\source\repos\myproject> tsc
+
 PS C:\Users\shree\source\repos\myproject> node dist/app.js
+
 Server is running on http://localhost:3000
 
 

@@ -9,24 +9,36 @@ This project is a Windows Form application with a TypeScript Express backend for
 
 ## How to Run
 
-### Frontend (Windows Form Application)
-
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Shree563/Internship_Project.git
 
-**2. Open the Project in Visual Studio:**
-Navigate to the cloned Internship_Project folder.
+### Frontend (Windows Form Application)
 
-Open the frontend folder.
+**1.Inside the Internship_Project folder, you mentioned there are frontend and backend folders.**
+
+Frontend:
+
+Open a separate Visual Studio Code window (assuming you're using VS Code) and navigate to the frontend folder:
+
+cd frontend
+
+code .
 
 Open Form1.Designer.vb in Visual Studio by navigating to the file and using Shift + F7 to switch to the designer view.
 
 Run the form by clicking on the play button in Visual Studio.
 
+
 ### Backend (TypeScript Express Server) ---> CODE IS AVAILABLE IN FOLDER BACKEND-->SRC--->  APP.TS
 
-Install Dependencies:
+**Similarly, open another Visual Studio Code window and navigate to the backend folder:**
+
+cd backend
+
+code .
+
+**Install Dependencies:**
 
 **1.Open the developer shell in Visual Studio.**
 

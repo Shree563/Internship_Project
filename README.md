@@ -13,9 +13,9 @@ This project is a Windows Form application with a TypeScript Express backend for
    ```bash
    git clone https://github.com/Shree563/Internship_Project.git
 
-### Frontend (Windows Form Application)
+**1.Inside the Internship_Project folder, We have mentioned there are frontend and backend folders.**
 
-**1.Inside the Internship_Project folder, you mentioned there are frontend and backend folders.**
+### Frontend (Windows Form Application)
 
 Frontend:
 

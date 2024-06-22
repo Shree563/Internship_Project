@@ -48,6 +48,13 @@ cd backend
 
 **2.Install necessary dependencies**
 
+1. Install Node.js and npm
+Ensure you have Node.js and npm installed. You can download and install them from [nodejs.org.](https://nodejs.org/en)
+
+PS C:\Users\shree\source\repos\Internship_Project\backend> Install-Package Newtonsoft.Json
+
+PS C:\Users\shree\source\repos\Internship_Project\backend> npm install -g typescript
+
 PS C:\Users\shree\source\repos\Internship_Project\backend> npm install
 
 PS C:\Users\shree\source\repos\Internship_Project\backend> npm install --save-dev @types/cors

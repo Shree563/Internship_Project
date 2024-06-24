@@ -4,7 +4,7 @@ This project is a Windows Form application with a TypeScript Express backend for
 
 ## Technologies Used
 
-- **Frontend:** .NET Framework, C#
+- **Frontend:** .NET Framework, VB
 - **Backend:** TypeScript, Express.js
 
 ## How to Run

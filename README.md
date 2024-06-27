@@ -25,9 +25,11 @@ cd frontend
 
 code .
 
-Open Form1.Designer.vb in Visual Studio by navigating to the file and using Shift + F7 to switch to the designer view.
+Open Form1.Designer.vb in Visual Studio by navigating to the file and using Shift + F7 to switch to the designer view and run the code by clicking on play button.
 
-Run the form by clicking on the play button in Visual Studio.
+or
+
+open the form1.vb and run it simply without opening the designer view by clicking on the play button in Visual Studio.
 
 
 ### Backend (TypeScript Express Server) ---> CODE IS AVAILABLE IN FOLDER BACKEND-->SRC--->  APP.TS

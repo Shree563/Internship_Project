@@ -31,6 +31,8 @@ or
 
 open the form1.vb and run it simply without opening the designer view by clicking on the play button in Visual Studio.
 
+![image](https://github.com/Shree563/Internship_Project/assets/173329929/c7cdfc5b-5eee-4413-86c3-ec35e4a0d255)
+
 
 ### Backend (TypeScript Express Server) ---> CODE IS AVAILABLE IN FOLDER BACKEND-->SRC--->  APP.TS
 
